@@ -31,9 +31,11 @@ source activate tensorflow
 # 2、进入官网 打开下面这个页面，找到对应的安装版本命令
 
 ![这里写图片描述](http://img.blog.csdn.net/20171213112148640?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvd2M3ODE3MDgyNDk=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
-```
+```python
 pip install http://download.pytorch.org/whl/cu80/torch-0.2.0.post3-cp27-cp27mu-manylinux1_x86_64.whl
 pip install torchvision
+# 或
+pip3 install http://download.pytorch.org/whl/cu80/torch-0.2.0.post3-cp35-cp35m-manylinux1_x86_64.whl
 ```
 
 如果第一条语句失败，可以按下面语句安装

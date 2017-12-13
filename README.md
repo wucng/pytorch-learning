@@ -10,6 +10,8 @@ pytorch learning
 
 3、http://pytorch-cn.readthedocs.io/zh/latest/ 中文官网
 
+4、https://hub.docker.com/r/pytorch/pytorch/ docker网站
+
 ------
 
 
